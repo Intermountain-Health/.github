@@ -41,11 +41,5 @@ Once you've completed your request for an MSDN Subscription, you may now request
 
 ## :question: Need Help?
 
-*Note: A ServiceHub connector for the Support Team, and FAQs are pending.*
-
-If you encounter any issues or have questions, please refer to our [FAQs](#faqs-link-needed) or reach out to our [support team](#support-team-link-needed).
-
----
-
-Thank you for being a part of Intermountain Health's innovative community.
+🚧 *Note: A ServiceHub connector for the Support Team, and FAQs are pending.* 🚧
 
