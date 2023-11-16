@@ -8,22 +8,7 @@ It seems you are not authenticated. To gain access to the repositories within th
 
 ## :bookmark_tabs: Before You Begin
 
-Before requesting access to GitHub, ensure that you have completed a request for a **Microsoft MSDN Developer Subscription**.
-
-### Steps to Request MSDN Subscription
-
-1. **MSDN Developer Subscription**:
-   Visit the MSDN subscription request page on [ServiceHub](https://intermountainhealth.service-now.com/servicehub?id=sc_cat_item&table=sc_cat_item&sys_id=558ba1691bcb2d10ffbda641b24bcbf7).
-
-2. **Complete the Form**:
-   Provide the necessary details in the request form.
-
-3. **Submit Your Request**:
-   Review and submit your form. You'll be notified upon the completion of your request.
-
-## :key: How to Request Access
-
-Once you've completed your request for an MSDN Subscription, you may now request access to our GitHub resources. Access to GitHub is governed through AccessHub. Follow these steps to request access:
+Access to GitHub is governed through AccessHub. Follow these steps to request access:
 
 **Note, the steps below are pending the completion of the GitHub application within AccessHub.**
 
